@@ -62,4 +62,4 @@ typings/
 .next
 
 # build files
-lib/
+lib
