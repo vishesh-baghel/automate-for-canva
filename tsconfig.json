@@ -6,6 +6,8 @@
     "lib": ["esnext"],
     "outDir": "./lib",
     "rootDir": "./src",
-    "strict": true
+    "strict": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true
   }
 }
